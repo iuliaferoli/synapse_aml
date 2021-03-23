@@ -3,6 +3,9 @@
 
 ![architecture](https://github.com/iuliaferoli/synapse_aml/blob/main/img/automlarch.JPG)
 
+[![Video Explanation](https://img.youtube.com/vi/gro6uhBjaAs/0.jpg)](https://www.youtube.com/watch?v=gro6uhBjaAs "Video Explanation")
+
+
 This is the technical breakdown for the first of three scenarios for AML & Synapse integration as described in this article, exploring the different ways the two products can be used together for an end-to-end story.
 
 The other two scenarios are: The Unicorn: creating a spark optimized custom model and The citizen data scientist / engineer: Same results with no/low code?
